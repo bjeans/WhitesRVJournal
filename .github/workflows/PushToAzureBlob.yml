@@ -8,6 +8,6 @@ jobs:
       - uses: actions/checkout@master
       - uses: bacongobbler/azure-blob-storage-upload@v1.0.0
         with:
-          source_dir: archives
+          source_dir: .
           container_name: www
           connection_string: ${{ secrets.ConnectionString }}
