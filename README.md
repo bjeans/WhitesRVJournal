@@ -1,2 +1,2 @@
 # WhitesRVJournal
-Now hosted in [Azure](https://azure.com)
+Now hosted on [Cloudflare Pages](https://pages.cloudflare.com/)
